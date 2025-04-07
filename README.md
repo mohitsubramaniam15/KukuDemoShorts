@@ -120,7 +120,7 @@ Streamlit Preview UI
 ![Architecture Diagram](AssetsKK/Results_a.png)
 ![Architecture Diagram](AssetsKK/Results_b.png)
 ![Architecture Diagram](AssetsKK/Results_c.png)
-![Architecture Diagram](AssetsKK/Results_TTS output.png)
+![Architecture Diagram](AssetsKK/Results_TTS_output.png)
 
 ---
 
