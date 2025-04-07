@@ -2,7 +2,6 @@
 
 🚀 [Live Demo](https://drive.google.com/drive/folders/11tJp9yNECwPO2tnTASlfYYpHkBAjWNm-?usp=sharing)  
 📚 [Dataset](https://www.kaggle.com/datasets/elvinrustam/books-dataset/data)  
-💻 [GitHub Repo](https://github.com/mohitsubramaniam15/KukuDemoShorts)
 
 ---
 
