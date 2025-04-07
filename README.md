@@ -111,7 +111,7 @@ Gold Layer (TTS + Metadata)
 Streamlit Preview UI
 ```
 
-![Architecture Diagram](AssetsKK/Architecture Prototype.png)
+![Architecture Diagram](AssetsKK/Architecture_Prototype.png)
 
 ---
 
