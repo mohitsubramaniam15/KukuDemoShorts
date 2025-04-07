@@ -111,8 +111,16 @@ Gold Layer (TTS + Metadata)
 Streamlit Preview UI
 ```
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](AssetsKK/Architecture Prototype.png)
 
+---
+
+## 🖼️ Results
+
+![Architecture Diagram](AssetsKK/Results_a.png)
+![Architecture Diagram](AssetsKK/Results_b.png)
+![Architecture Diagram](AssetsKK/Results_c.png)
+![Architecture Diagram](AssetsKK/Results_TTS output.png)
 
 ---
 
@@ -125,3 +133,17 @@ For questions, feedback, or collaborations:
 🔗 [GitHub](https://github.com/mohitsubramaniam15)
 
 ---
+
+## 🖼️ Implementation
+
+![Architecture Diagram](a.png)
+![Architecture Diagram](AssetsKK/b.png)
+![Architecture Diagram](AssetsKK/c.png)
+![Architecture Diagram](AssetsKK/d.png)
+![Architecture Diagram](AssetsKK/e.png)
+![Architecture Diagram](AssetsKK/f.png)
+![Architecture Diagram](AssetsKK/g.png)
+
+
+
+
