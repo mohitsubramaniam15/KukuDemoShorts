@@ -1,6 +1,6 @@
 # 🎧 Kuku Shorts — AI-Powered Audio Reels for Smarter Discovery
 
-🚀 [Live Demo](https://drive.google.com/drive/folders/11tJp9yNECwPO2tnTASlfYYpHkBAjWNm-?usp=sharing) | 📚 [Dataset](https://www.kaggle.com/datasets/elvinrustam/books-dataset/data)  
+🚀 [Demo Video](https://drive.google.com/drive/folders/11tJp9yNECwPO2tnTASlfYYpHkBAjWNm-?usp=sharing) | 📚 [Dataset](https://www.kaggle.com/datasets/elvinrustam/books-dataset/data)  
 
 ---
 
@@ -110,6 +110,9 @@ Gold Layer (TTS + Metadata)
    ↓
 Streamlit Preview UI
 ```
+
+![Architecture Diagram](images/architecture.png)
+
 
 ---
 
