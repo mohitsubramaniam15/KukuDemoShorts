@@ -2,6 +2,12 @@
 
 🚀 [Demo Video](https://drive.google.com/drive/folders/11tJp9yNECwPO2tnTASlfYYpHkBAjWNm-?usp=sharing) | 📚 [Dataset](https://www.kaggle.com/datasets/elvinrustam/books-dataset/data)  
 
+#
+
+<a href="https://drive.google.com/file/d/13PdKWknrEqy3_nu3DCIeIU_5YBa14KEN/view?usp=sharing" target="_blank">
+  <img src="https://github.com/mohitsubramaniam15/KukuDemoShorts/blob/main/AssetsKK/sample.gif?raw=true" alt="Sample GIF" style="width:300px;">
+</a>
+
 ---
 
 ## 🔍 What is Kuku Shorts?
