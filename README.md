@@ -5,7 +5,7 @@
 #
 
 <a href="https://drive.google.com/file/d/13PdKWknrEqy3_nu3DCIeIU_5YBa14KEN/view?usp=sharing" target="_blank">
-  <img src="https://github.com/mohitsubramaniam15/KukuDemoShorts/blob/main/AssetsKK/sample.gif?raw=true" alt="Sample GIF" style="width:300px;">
+  <img src="https://github.com/mohitsubramaniam15/KukuDemoShorts/blob/main/AssetsKK/sample.gif?raw=true" alt="Sample GIF">
 </a>
 
 ---
